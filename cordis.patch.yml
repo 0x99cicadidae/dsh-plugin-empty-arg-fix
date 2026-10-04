@@ -1,0 +1,4 @@
+- insert:
+    - id: empty-arg-fix
+      name: 'dsh-plugin-empty-arg-fix'
+      config: {}

@@ -1,0 +1,10 @@
+# Build artifacts: install the published tarball (or a GitHub Release) instead.
+*.tgz
+
+# A plugin package never installs dependencies inside itself.
+/node_modules/
+
+# Editor and OS noise
+.DS_Store
+Thumbs.db
+*.swp

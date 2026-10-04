@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Empty Argument Fix",
+    "description": "Treat blank optional route arguments as omitted, so models that send provider/model as empty strings can list and select subagent models."
+  }
+}
